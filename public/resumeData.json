@@ -1,0 +1,97 @@
+{
+  "main": {
+    "name": "Steven Larsen",
+    "occupation": "",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "I am currently working as a Telephony Manager at Advance Financial. I enjoy learning new technologies,  and web development. Outside of work I enjoy working out, obstacle course races, building new projects, or spending time with my beautiful wife, and 2 dogs.",
+    "contactmessage": "Have questions?  Let's chat.",
+    "email": "slarsen-3@att.net",
+    "phone": "615-495-1061",
+    "address": {
+      "street": "",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": ""
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/steve.larsen.9615/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/larsenfit3",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/larsenstevenj/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/larsenfit3/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/stelar-3023",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "stackoverflow",
+        "url": "https://stackoverflow.com/users/14431733/steve-larsen",
+        "className": "fa fa-stack-overflow"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Volunteer State University",
+        "degree": "Associate of Applied Science / Computer Information Technology / Web Applications Developer Level II",
+        "graduated": "December 2012",
+        "description": ""
+      },
+      {
+        "school": "Nucamp Coding Bootcamp",
+        "degree": "Full Stack Web and Mobile Development",
+        "graduated": "September 2020",
+        "description": "React, Redux, MongoDB, NodeJS, React Native, Web Application Architecture."
+      }
+    ],
+    "work": [
+      {
+        "company": "Advance Financial",
+        "title": "Senior Dialer Adminstrator & Telephony Manager ",
+        "years": "July 2015 - Current",
+        "description": "Confirm compliance with all State and Federal regulations, including (FDCPA, TCPA) to deliver industry best practices. Envision and employ comprehensive dialing strategy, including providing IVR, manual, preview, and predictive dialing campaigns in combination with attended messaging and blast campaigns. Uncover and introduce process/system changes, identify operational opportunities, and deliver recommendations to Managers and Directors to facilitate informed decision-making, while strategically positioned as dialer expert and primary point of contact for dialer strategies and malfunctions. "
+      },
+      {
+        "company": "Windham Professionals",
+        "title": "Dialer Manager / Operational Excellence",
+        "years": "July 2008 - July 2015",
+        "description": "Administered dialer system, while devising system, performing maintenance, and delivering programming to leverage dialer aspects, enhance organizational effectiveness, and augment overall performance. Oversaw and tracked predictive dialer system while developing campaigns, calling lists, filters, reports, and list strategies through real-time monitoring, while ensuring compliance with State/Federal regulations. (FDCPA, TCPA) Slashed resolution time for customer inquiries by developing and deploying multiple telephony systems for multiple locations. Optimized overall contact rate, and enhanced revenue and productivity of agents by implementing outbound dialing strategies."
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Nucampsite",
+        "category": "Basic  react site for campsite information with  a contact form.",
+        "image": "nucampsite.JPG",
+        "url": "https://nucampsite-slarsen.netlify.app/home"
+      },
+      {
+        "title": "Portfolio Website",
+        "category": "A React based portfolio website.",
+        "image": "portfolio-website.jpg",
+        "url": ""
+      }
+    ]
+  }
+}
