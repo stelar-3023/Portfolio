@@ -82,7 +82,7 @@
     "projects": [
       {
         "title": "Nucampsite",
-        "category": "Basic  react site for campsite information with  a contact form.",
+        "category": "Basic  React site for campsite information with  a contact form.",
         "image": "nucampsite.JPG",
         "url": "https://nucampsite-slarsen.netlify.app/home"
       },
@@ -90,7 +90,7 @@
         "title": "Portfolio Website",
         "category": "A React based portfolio website.",
         "image": "portfolio-website.jpg",
-        "url": ""
+        "url": "https://slarsen-portfolio.netlify.app"
       }
     ]
   }
