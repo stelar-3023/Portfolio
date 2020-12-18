@@ -109,7 +109,7 @@ class Contact extends Component {
                 <br />
                 <span>{phone}</span>
                 <br />
-                {email}
+                <a href={`mailto:${email}`}>slarsen-3@att.net</a>
               </p>
             </div>
           </aside>
