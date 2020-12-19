@@ -3,12 +3,12 @@ import React, { Component } from "react";
 class Contact extends Component {
   render() {
     if (this.props.data) {
-      var name = this.props.data.name;
-      var city = this.props.data.address.city;
-      var state = this.props.data.address.state;
-      var phone = this.props.data.phone;
-      var email = this.props.data.email;
-      var message = this.props.data.contactmessage;
+      var my_name = this.props.data.name;
+      var my_city = this.props.data.address.city;
+      var my_state = this.props.data.address.state;
+      var my_phone = this.props.data.phone;
+      var my_email = this.props.data.email;
+      var my_message = this.props.data.contactmessage;
     }
 
     return (
@@ -21,7 +21,7 @@ class Contact extends Component {
           </div>
 
           <div className="ten columns">
-            <p className="lead">{message}</p>
+            <p className="lead">{my_message}</p>
           </div>
         </div>
 
@@ -103,13 +103,13 @@ class Contact extends Component {
             <div className="widget widget_contact">
               <h4>Address and Phone</h4>
               <p className="address">
-                {name}
+                {my_name}
                 <br />
-                {city}, {state}
+                {my_city}, {my_state}
                 <br />
-                <span>{phone}</span>
+                <span>{my_phone}</span>
                 <br />
-                <a href={`mailto:${email}`}>slarsen-3@att.net</a>
+                <a href={`mailto:${my_email}`}>slarsen-3@att.net</a>
               </p>
             </div>
           </aside>
