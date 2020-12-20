@@ -60,7 +60,8 @@ class Contact extends Component {
     }
 
     return (
-      <Form id="contact" onSubmit={this.handleSubmit}>
+      <section id="contact">
+      <Form onSubmit={this.handleSubmit}>
         <FormGroup className="row section-head">
           <div className="two columns header-col">
             <h1>
@@ -143,6 +144,7 @@ class Contact extends Component {
           </div>
         </FormGroup>
       </Form>
+      </section>
     );
   }
 }
