@@ -84,13 +84,15 @@
         "title": "Nucampsite",
         "category": "Basic  React site for campsite information with  a contact form.",
         "image": "nucampsite.JPG",
-        "url": "https://nucampsite-slarsen.netlify.app/home"
+        "url": "https://nucampsite-slarsen.netlify.app/home",
+        "technologies": "HTML, CSS, React, Bootstrap, Reactstrap, React-Popper"
       },
       {
         "title": "Portfolio Website",
         "category": "A React based portfolio website.",
         "image": "portfolio-website.jpg",
-        "url": "https://slarsen-portfolio.netlify.app"
+        "url": "https://slarsen-portfolio.netlify.app",
+        "technologies": "HTML, CSS, React, Reactstrap, Javascript, GSAP, emailjs"
       }
     ]
   }
