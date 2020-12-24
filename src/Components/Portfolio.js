@@ -20,7 +20,7 @@ class Portfolio extends Component {
                     <h5>{projects.title}</h5>
                     <p>{projects.category}</p>
                     <br />
-                    <p>Skills: </p>
+                    <p>Skills: {projects.technologies}</p>
                   </div>
                 </div>
                 <div className="link-icon">
