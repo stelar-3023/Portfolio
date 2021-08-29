@@ -99,7 +99,7 @@
         "category": "A React based workout log, with authentication.",
         "image": "spartan_calisthenics.jpg",
         "url": "https://happy-kirch-d801fa.netlify.app/",
-        "technologies": "HTML, SASS, Bootstrap, React, Reactstrap, Javascript, Firebase"
+        "technologies": "HTML, Sass, Bootstrap, React, Reactstrap, Javascript, Firebase"
       },
       {
         "title": "Go Math - 1st Grade Quiz",
@@ -107,6 +107,13 @@
         "image": "quiz-app.jpg",
         "url": "https://quiz-app-slarsen-code-x.herokuapp.com/index.html",
         "technologies": "HTML, CSS, Javasctipt"
+      },
+      {
+        "title": "SpaceX Launch Dashboard",
+        "category": "A dashboard for previous and upcoming SpaceX launches.",
+        "image": "SpaceX.jpg",
+        "url": "https://stelar-3023.github.io/SpaceX/",
+        "technologies": "React, Sass, Javascript, GraphQL, Stepzen"
       }
     ]
   }
