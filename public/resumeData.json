@@ -93,6 +93,20 @@
         "image": "portfolio-website.jpg",
         "url": "https://slarsen-portfolio.netlify.app",
         "technologies": "HTML, CSS, React, Reactstrap, Javascript, GSAP, emailjs"
+      },
+      {
+        "title": "Spartan Calisthenics",
+        "category": "A React based workout log, with authentication.",
+        "image": "spartan_calisthenics.jpg",
+        "url": "https://happy-kirch-d801fa.netlify.app/",
+        "technologies": "HTML, SASS, Bootstrap, React, Reactstrap, Javascript, Firebase"
+      },
+      {
+        "title": "Go Math - 1st Grade Quiz",
+        "category": "A first grade math quiz created with HTML, CSS, and Javascript.",
+        "image": "quiz-app.jpg",
+        "url": "https://quiz-app-slarsen-code-x.herokuapp.com/index.html",
+        "technologies": "HTML, CSS, Javasctipt"
       }
     ]
   }
