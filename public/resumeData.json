@@ -99,7 +99,7 @@
         "category": "A React based workout log, with authentication.",
         "image": "spartan_calisthenics.jpg",
         "url": "https://condescending-steve-690fca.netlify.app",
-        "technologies": "HTML, Sass, Bootstrap, React, Reactstrap, Javascript, Postgres"
+        "technologies": "HTML, Sass, Bootstrap, React, Reactstrap, Redux, Javascript, JWT Auth, Postgres"
       },
       {
         "title": "Go Math - 1st Grade Quiz",
