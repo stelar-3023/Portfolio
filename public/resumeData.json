@@ -98,8 +98,8 @@
         "title": "Spartan Calisthenics",
         "category": "A React based workout log, with authentication.",
         "image": "spartan_calisthenics.jpg",
-        "url": "https://happy-kirch-d801fa.netlify.app/",
-        "technologies": "HTML, Sass, Bootstrap, React, Reactstrap, Javascript, Firebase"
+        "url": "https://condescending-steve-690fca.netlify.app",
+        "technologies": "HTML, Sass, Bootstrap, React, Reactstrap, Javascript, Postgres"
       },
       {
         "title": "Go Math - 1st Grade Quiz",
